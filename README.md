@@ -15,5 +15,5 @@
 ### Summary
 ##### In the results yielded through this project, we found that There are 72,458 roles to be filled at Pewlett-Hackard in the near future. The mentorship program is a great solution to this upcoming shortage of filled roles as the silver tsunmai takes place. But with mentorship eligiblity only being for those born in 1965, there will not be nearly enough mentors.
 ##### As an experiment, I created a new query and table called new_mentorshipship_eligiblity for current employees born between January 1, 1960 and Decmeber 31, 1965. This would open up the mentorship eligible members and increase that number to 93,756. This would give a bigger pool of mentors to choose from. The query is shown below as well as in the queries folder of this repo. The new table can be found in the tables folder. 
-![](new mentorship)
+![](https://github.com/yfaulkne/Pewlett-Hackard-Analysis/blob/main/Data/new_mentorship.PNG)
 ##### If Pewlett-Hackard compares this new mentorship table with the retiring titles table to find the roles that are most in need, then they will be in good shape for the silver tsunami! 
