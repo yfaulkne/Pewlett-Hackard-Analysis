@@ -7,4 +7,5 @@
 ### Results
 ##### 
 * The first table created was the Retirement Titles table.  This table showed all employees who were born between January 1, 1962 and December 31, 1955. There were just shy of 500,000 employees on this list. This table included employees that were already retired so we needed to dive deeper.
-* Next, we created a Unique Titles table. We created this table by creating another query using the Distinct on statement and filtering only those employees that are still working currently working at Pewlett-Hackard.
+* Next, we created a Unique Titles table. We created this table by creating another query using the Distinct On statement and filtering only those employees that are still working currently working at Pewlett-Hackard. This cut the number of upcoming retirees down the number to , which is still a big number! Hence managment dubbing this era the "Silver Tsunami"
+* 
