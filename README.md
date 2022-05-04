@@ -9,7 +9,7 @@
 * The first table created was the Retirement Titles table.  This table showed all employees who were born between January 1, 1962 and December 31, 1955. There were just shy of 134,000 employees on this list. This table included employees that were already retired so we needed to dive deeper.
 * Next, we created a Unique Titles table. We created this table by creating another query using the Distinct On statement and filtering only those employees that are still working currently working at Pewlett-Hackard. This cut the number of upcoming retirees down the number to 72,458, which is still a big number! Hence managment dubbing this era the "Silver Tsunami"
 * Of those 72,458 retiring employees, we needed to find the exact titles that they held. The breakdown is shown below:
-![](retiring titles screenshot)
+![](https://github.com/yfaulkne/Pewlett-Hackard-Analysis/blob/main/Data/retiringtitles.PNG)
 * Since there are quite a few titles that will need to be filled soon, management wanted to create a list of employees eligible to participate in a mentorship program to train up and coming employees to take over their roles once they retire. The employees eligible would be those approaching retirement and born in the year 1965. There were 1,449 employees eligible for the mentorship program.
 ---
 ### Summary
